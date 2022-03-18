@@ -11,30 +11,121 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ded3336-194e-47df-b099-61c8006fe941" name="Default Changelist" comment="sgg cloud">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_all_5_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-api-commons/cloud-api-commons.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-api-commons/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-order9001/cloud-consumer-order80.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-order9001/cloud-consumer-order9001.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-order9001/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-order9001/src/main/java/com/wyz/springcloud/Consumer80Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-order9001/src/main/java/com/wyz/springcloud/config/ApplicationContextConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-order9001/src/main/java/com/wyz/springcloud/controller/OrderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-order9001/src/main/java/com/wyz/springcloud/utils/CommonResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-order9001/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-eureka-server7001/cloud-eureka-server7001.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-eureka-server7001/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-eureka-server7001/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_core_0_12_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_stoyanr_evictor_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_addons_reactor_extra_3_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_10_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_64.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_64.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_cache_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_loadbalancer_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_loadbalancer_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_server_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-eureka-server7001/src/main/java/com/wyz/springcloud/EurekaApplicatin7001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-eureka-server7002/cloud-eureka-server7002.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-eureka-server7002/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-eureka-server7002/src/main/java/com/wyz/springcloud/EurekaApplicatin7002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-eureka-server7002/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-peovider-8002/cloud-peovider-8002.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-peovider-8002/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-peovider-8002/src/main/java/com/wyz/springcloud/Provider8002Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-peovider-8002/src/main/java/com/wyz/springcloud/controller/PaymentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-peovider-8002/src/main/java/com/wyz/springcloud/dao/PaymentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-peovider-8002/src/main/java/com/wyz/springcloud/service/Impl/PaymentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-peovider-8002/src/main/java/com/wyz/springcloud/service/PaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-peovider-8002/src/main/java/com/wyz/springcloud/utils/CommonResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-peovider-8002/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order9001/cloud-consumer-order80.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order9001/cloud-consumer-order80.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order9001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order9001/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order9001/src/main/java/com/wyz/springcloud/Consumer80Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order9001/src/main/java/com/wyz/springcloud/Consumer9001Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order9001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order9001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server7001/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-provider-8001/cloud-provider-8001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-8001/cloud-provider-8001.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-provider-8001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-8001/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-8001/src/main/java/com/wyz/springcloud/entity/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/wyz/springcloud/entity/Payment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-8001/src/main/java/com/wyz/springcloud/service/Impl/PaymentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-8001/src/main/java/com/wyz/springcloud/service/Impl/PaymentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-8001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-8001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-8001/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-8001/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-8001/target/classes/com/wyz/springcloud/entity/Payment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-8001/target/classes/com/wyz/springcloud/service/Impl/PaymentServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-8001/target/classes/com/wyz/springcloud/service/Impl/PaymentServiceImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sringcloud" beforeDir="false" afterPath="$PROJECT_DIR$/../sringcloud" afterDir="false" />
     </list>
@@ -83,17 +174,30 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cloud-peovider-8002/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.34743473" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\gitCode\cloud2020\cloud-provider-8002\src\main" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wyz.springcloud" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\gitCode\cloud2020\cloud-peovider-8002\src\main\resources" />
+      <recent name="D:\gitCode\cloud2020\cloud-peovider-8002\src\main\java" />
+      <recent name="D:\gitCode\cloud2020\cloud-provider-8002\src\main\resources" />
+      <recent name="D:\gitCode\cloud2020\cloud-provider-8002\src\main\java" />
       <recent name="D:\ideaWorkPlace\cloud2020\cloud-provider-8001\target\classes\mapper" />
     </key>
   </component>
@@ -104,7 +208,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Provider8001Main">
+  <component name="RunManager" selected="Spring Boot.EurekaApplicatin7002">
     <configuration name="Provider8001Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -120,70 +224,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="cloud-api-commons" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="cloud-api-commons" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Consumer80Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wyz.springcloud.Consumer80Main" />
+      <module name="cloud-consumer-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wyz.springcloud.Consumer9001Main" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Provider8001Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="cloud-provider" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wyz.springcloud.Provider8001Main" />
+    <configuration name="EurekaApplicatin7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-eureka-server7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wyz.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wyz.springcloud.EurekaApplicatin7001" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EurekaApplicatin7002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-eureka-server7002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wyz.springcloud.EurekaApplicatin7002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Provider8001Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wyz.springcloud.Provider8001Main" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Provider8002Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-peovider-8002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wyz.springcloud.Provider8002Main" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Provider8001Main" />
+      <item itemvalue="Spring Boot.Consumer80Main" />
+      <item itemvalue="Spring Boot.EurekaApplicatin7002" />
+      <item itemvalue="Spring Boot.Provider8001Main" />
+      <item itemvalue="Spring Boot.Provider8002Main" />
+      <item itemvalue="Spring Boot.EurekaApplicatin7001" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.EurekaApplicatin7001" />
         <item itemvalue="Application.Provider8001Main" />
       </list>
     </recent_temporary>
@@ -201,7 +299,8 @@
       <workItem from="1647569903324" duration="7942000" />
       <workItem from="1647582042229" duration="1715000" />
       <workItem from="1647583933422" duration="711000" />
-      <workItem from="1647584678310" duration="1124000" />
+      <workItem from="1647584678310" duration="9417000" />
+      <workItem from="1647595030524" duration="1723000" />
     </task>
     <task id="LOCAL-00001" summary="sgg cloud">
       <created>1647582148342</created>
@@ -210,7 +309,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647582148342</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="sgg cloud">
+      <created>1647585861429</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1647585861430</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,78 +339,82 @@
     <option name="LAST_COMMIT_MESSAGE" value="sgg cloud" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="635" y="206" width="663" height="627" key="#Consumer80Main" timestamp="1647585668827">
+    <state x="635" y="206" width="663" height="627" key="#Consumer80Main" timestamp="1647596308068">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="635" y="206" width="663" height="627" key="#Consumer80Main/0.0.1920.1040@0.0.1920.1040" timestamp="1647585668827" />
-    <state x="440" y="93" key="#Project_Structure" timestamp="1647585760965">
+    <state x="635" y="206" width="663" height="627" key="#Consumer80Main/0.0.1920.1040@0.0.1920.1040" timestamp="1647596308068" />
+    <state x="440" y="93" key="#Project_Structure" timestamp="1647596050794">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="93" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1647585760965" />
-    <state x="673" y="228" key="#Provider8001Main" timestamp="1647583591941">
+    <state x="440" y="93" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1647596050794" />
+    <state x="673" y="128" key="#Provider8001Main" timestamp="1647587303528">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="673" y="228" key="#Provider8001Main/0.0.1920.1040@0.0.1920.1040" timestamp="1647583591941" />
-    <state x="689" y="308" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1647585655954">
+    <state x="673" y="128" key="#Provider8001Main/0.0.1920.1040@0.0.1920.1040" timestamp="1647587303528" />
+    <state x="635" y="64" key="#Provider8002Main" timestamp="1647596381307">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="689" y="308" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1647585655954" />
+    <state x="635" y="64" key="#Provider8002Main/0.0.1920.1040@0.0.1920.1040" timestamp="1647596381307" />
+    <state x="689" y="308" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1647596307188">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="308" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1647596307188" />
     <state x="618" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1647584266085">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="618" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1647584266085" />
-    <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1647570378970">
+    <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1647592940799">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1647570378970" />
-    <state width="1876" height="100" key="GridCell.Tab.0.bottom" timestamp="1647585617749">
+    <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1647592940799" />
+    <state width="1528" height="325" key="GridCell.Tab.0.bottom" timestamp="1647596477372">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="100" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1647585617749" />
-    <state width="1876" height="100" key="GridCell.Tab.0.center" timestamp="1647585617749">
+    <state width="1528" height="325" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1647596477372" />
+    <state width="1528" height="325" key="GridCell.Tab.0.center" timestamp="1647596477372">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="100" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1647585617749" />
-    <state width="1876" height="100" key="GridCell.Tab.0.left" timestamp="1647585617749">
+    <state width="1528" height="325" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1647596477372" />
+    <state width="1528" height="325" key="GridCell.Tab.0.left" timestamp="1647596477371">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="100" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1647585617749" />
-    <state width="1876" height="100" key="GridCell.Tab.0.right" timestamp="1647585617749">
+    <state width="1528" height="325" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1647596477371" />
+    <state width="1528" height="325" key="GridCell.Tab.0.right" timestamp="1647596477372">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="100" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1647585617749" />
-    <state width="1876" height="428" key="GridCell.Tab.1.bottom" timestamp="1647583763704">
+    <state width="1528" height="325" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1647596477372" />
+    <state width="1528" height="325" key="GridCell.Tab.1.bottom" timestamp="1647596472445">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="428" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1647583763704" />
-    <state width="1876" height="428" key="GridCell.Tab.1.center" timestamp="1647583763703">
+    <state width="1528" height="325" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1647596472445" />
+    <state width="1528" height="325" key="GridCell.Tab.1.center" timestamp="1647596472445">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="428" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1647583763703" />
-    <state width="1876" height="428" key="GridCell.Tab.1.left" timestamp="1647583763703">
+    <state width="1528" height="325" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1647596472445" />
+    <state width="1528" height="325" key="GridCell.Tab.1.left" timestamp="1647596472445">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="428" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1647583763703" />
-    <state width="1876" height="428" key="GridCell.Tab.1.right" timestamp="1647583763703">
+    <state width="1528" height="325" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1647596472445" />
+    <state width="1528" height="325" key="GridCell.Tab.1.right" timestamp="1647596472445">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="428" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1647583763703" />
-    <state width="1528" height="427" key="GridCell.Tab.2.bottom" timestamp="1647583763542">
+    <state width="1528" height="325" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1647596472445" />
+    <state width="1528" height="325" key="GridCell.Tab.2.bottom" timestamp="1647596472445">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1528" height="427" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1647583763542" />
-    <state width="1528" height="427" key="GridCell.Tab.2.center" timestamp="1647583763542">
+    <state width="1528" height="325" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1647596472445" />
+    <state width="1528" height="325" key="GridCell.Tab.2.center" timestamp="1647596472445">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1528" height="427" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1647583763542" />
-    <state width="1528" height="427" key="GridCell.Tab.2.left" timestamp="1647583763542">
+    <state width="1528" height="325" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1647596472445" />
+    <state width="1528" height="325" key="GridCell.Tab.2.left" timestamp="1647596472445">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1528" height="427" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1647583763542" />
-    <state width="1528" height="427" key="GridCell.Tab.2.right" timestamp="1647583763542">
+    <state width="1528" height="325" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1647596472445" />
+    <state width="1528" height="325" key="GridCell.Tab.2.right" timestamp="1647596472445">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1528" height="427" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1647583763542" />
+    <state width="1528" height="325" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1647596472445" />
     <state x="490" y="174" key="Maven.ArtifactSearchDialog" timestamp="1647570954452">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -313,14 +423,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="468" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1647583118044" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1647582339467">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1647586038246">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1647582339467" />
-    <state x="415" y="180" key="new project wizard" timestamp="1647585544904">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1647586038246" />
+    <state x="415" y="180" key="new project wizard" timestamp="1647595893314">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="415" y="180" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1647585544904" />
+    <state x="415" y="180" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1647595893314" />
     <state x="619" y="202" key="spring file set editor" timestamp="1647575838288">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

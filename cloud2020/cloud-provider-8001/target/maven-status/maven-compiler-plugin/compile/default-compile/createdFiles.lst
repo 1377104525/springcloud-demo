@@ -1,0 +1,6 @@
+com\wyz\springcloud\Provider8001Main.class
+com\wyz\springcloud\dao\PaymentDao.class
+com\wyz\springcloud\controller\PaymentController.class
+com\wyz\springcloud\service\Impl\PaymentServiceImpl.class
+com\wyz\springcloud\service\PaymentService.class
+com\wyz\springcloud\utils\CommonResult.class

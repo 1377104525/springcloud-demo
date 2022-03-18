@@ -1,0 +1,4 @@
+com\wyz\springcloud\utils\CommonResult.class
+com\wyz\springcloud\config\ApplicationContextConfig.class
+com\wyz\springcloud\Consumer80Main.class
+com\wyz\springcloud\controller\OrderController.class
